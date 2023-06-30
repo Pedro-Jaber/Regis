@@ -1,0 +1,13 @@
+Command Prompt
+
+python\venv\Scripts\activate.bat
+python Main.py
+deactivate.bat
+
+ou 
+
+PowerShell
+
+python\venv\Scripts\activate.ps1
+python Main.py
+deactivate
